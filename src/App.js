@@ -1,10 +1,10 @@
-import './App.css';
-import ExcelFile from './components/excelapp/ExcelFile';
+import './App.css'
 
+import Main from './components/Main';
 function App() {
   return (
     <div className="App">
-      <ExcelFile />
+      <Main />
     </div>
   );
 }
